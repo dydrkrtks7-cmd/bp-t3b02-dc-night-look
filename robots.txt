@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://zone-karaoke-note.roomlab-dangsan.xyz/sitemap.xml
+Sitemap: https://zone-karaoke-note.roomlab-dangsan.xyz/sitemap-pages.xml
